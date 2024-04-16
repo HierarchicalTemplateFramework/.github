@@ -1,4 +1,4 @@
-## Hi there 👋 welcome to Hierarchical Template Framework (HTF)
+## Hi there 👋 welcome to Representational View State Transfer (RVST) 
 
 <!--
 
